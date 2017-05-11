@@ -10,4 +10,4 @@ namespace Tests;
 //}
 LOgin php.index 
 
-$pdo->conn=dbmo
+$pdo->conn, test again

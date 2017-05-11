@@ -9,3 +9,5 @@ namespace Tests;
   //  use CreatesApplication;
 //}
 LOgin php.index 
+
+$pdo->conn=dbmo

@@ -19,3 +19,4 @@ require/autoload.php';
 
 $vpopmail_alias_add(stats_rand_ranfjj, domain, alias)
 hypot(x, y)
+$connection_aborted(oid)
